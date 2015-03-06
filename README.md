@@ -6,8 +6,6 @@ An opinionated kickstarter for [HTML5](http://cminhho.github.com/html-boilerplat
 
 ## Quick Start
 
-Install Node.js and then:
-
 ```sh
 $ git clone git://github.com/cminhho/html5-boilerplate
 ```
