@@ -1,6 +1,6 @@
-# [html5-boilerplate](http://cminhho.github.com/html-boilerplate)
+# [html5-boilerplate](https://github.com/cminhho/html5-boilerplate)
 
-An opinionated kickstarter for [HTML5](http://cminhho.github.com/html-boilerplate) projects.
+An opinionated kickstarter for [HTML5](https://github.com/cminhho/html5-boilerplate) projects.
 
 ***
 
